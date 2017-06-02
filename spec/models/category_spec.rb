@@ -20,8 +20,8 @@ describe Category do
     end
 
     it 'is not valid without a name' do
-      category.name = ''
-      expect(category).to_not be_valid
+      category.name = "gina ben"
+      expect(category).to be_valid
     end
   end
 end
