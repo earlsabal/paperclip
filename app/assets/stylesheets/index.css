@@ -1,20 +1,22 @@
-.categories_list{
-  width:70%;
-  margin:auto;
-  text-align:center;
+.categories_list {
+  width: 70%;
+  margin: auto;
+  text-align: center;
 }
-.categories_list p{
+
+.categories_list p {
   display: inline-block;
-  font-size:300%;
-  width:5em;
-  height:1.5em;
-  background-color:white;
-  padding-top:15px;
+  font-size: 300%;
+  width: 5em;
+  height: 1.5em;
+  background-color: white;
+  padding-top: 15px;
   opacity: .87;
-  margin-left:1em;
+  margin-left: 1em;
   border-radius: 10px;
 }
-.categories_list a{
+
+.categories_list a {
   color: black;
   text-decoration: none;
 }

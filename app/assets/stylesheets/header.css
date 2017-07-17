@@ -1,41 +1,42 @@
-.header{
-  height:7em;
+.header {
+  height: 7em;
 }
 
-.title{
+.title {
   letter-spacing: 0.02em;
   -webkit-font-smoothing: antialiased;
-  color:white;
-  width:13em;
-  margin:auto;
+  color: white;
+  width: 13em;
+  margin: auto;
   text-align: center;
   font-size: 430%;
 }
 
-
-.logs{
-  width:12em;
+.logs {
+  width: 12em;
   float: right;
-  margin:-75px 30px 0px 0px;
-  text-align:center;
+  margin: -75px 30px 0px 0px;
+  text-align: center;
 }
+
 .logs p {
   display: inline-block;
-  padding-right:10px;
-  font-size:120%;
+  padding-right: 10px;
+  font-size: 120%;
 }
+
 .logs a {
-  color:white;
+  color: white;
   display: inline-block;
-  font-size:120%;
+  font-size: 120%;
   text-decoration: none;
 }
 
-.home a{
-  float:left;
+.home a {
+  float: left;
   text-decoration: none;
-  color:white;
-  font-size:160%;
-  margin-top:-58px;
+  color: white;
+  font-size: 160%;
+  margin-top: -58px;
   margin-left: 4.4em;
 }

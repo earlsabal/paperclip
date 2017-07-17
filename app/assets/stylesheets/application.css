@@ -14,7 +14,6 @@
  *= require_self
  */
 
-
 body {
   background-image: url("https://unsplash.it/1900/1200?image=579");
   background-attachment: fixed;
@@ -23,39 +22,35 @@ body {
   font-family: Raleway, Arial;
 }
 
-a{
+a {
   text-decoration: none;
   outline: none;
 }
 
-
-.form-button input{
-  margin:5px;
-  border:none;
+.form-button input {
+  margin: 5px;
+  border: none;
   background-color: #003366;
   font-size: 12px;
-  width:120px;
-  height:40px;
-  color:white;
+  width: 120px;
+  height: 40px;
+  color: white;
   border-radius: 7px;
-  outline:none;
+  outline: none;
 }
 
-.review-form{
+.review-form {
   margin-top: 10px;
-  border:none;
+  border: none;
 }
 
-
-
-.body-wrapper{
-  width:70%;
-  margin:auto;
-  background-color:white;
+.body-wrapper {
+  width: 70%;
+  margin: auto;
+  background-color: white;
   border-radius: 10px;
   text-align: center;
 }
-
 
 .movie-pic {
   height: 20em;
@@ -69,141 +64,135 @@ a{
   text-align: center;
 }
 
-
-.movie_link a{
- color: black;
-text-decoration: none;
-}
-
-
-.movie-partial{
-  display: inline-block;
-  width:10em;
-  margin:auto;
-  vertical-align: top;
-  padding:1em;
-}
-.movie-partial a{
+.movie_link a {
+  color: black;
   text-decoration: none;
 }
 
-.show-container{
+.movie-partial {
+  display: inline-block;
+  width: 10em;
+  margin: auto;
+  vertical-align: top;
+  padding: 1em;
+}
+
+.movie-partial a {
+  text-decoration: none;
+}
+
+.show-container {
   text-align: center;
   padding-bottom: 1em;
-  padding-top:1em;
+  padding-top: 1em;
 }
 
-.review{
-  width:55em;
-  border-bottom:solid;
-  margin:auto;
-  border-width:1px;
+.review {
+  width: 55em;
+  border-bottom: solid;
+  margin: auto;
+  border-width: 1px;
 }
 
-
-.review-display{
-  width:55em;
-  margin:auto;
+.review-display {
+  width: 55em;
+  margin: auto;
 }
 
-.login_title{
-  width:20em;
+.login_title {
+  width: 20em;
 }
 
-
-.created_at{
-  font-size:75%;
+.created_at {
+  font-size: 75%;
 }
 
-.username{
-  font-size:75%;
+.username {
+  font-size: 75%;
 }
 
-.new_user{
-  width:20em;
-  margin:auto;
-  text-align:center;
-}
-
-
-.log_title{
-  width:7em;
-  margin:auto;
+.new_user {
+  width: 20em;
+  margin: auto;
   text-align: center;
-  padding-top:0.5em;
-  padding-bottom:0.5em;
-}
-.actions{
-  padding-bottom:1em;
 }
 
-.rating{
-  width:20em;
-  margin:auto;
+.log_title {
+  width: 7em;
+  margin: auto;
+  text-align: center;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
 }
 
-.new_rating{
-  width:2em;
+.actions {
+  padding-bottom: 1em;
+}
+
+.rating {
+  width: 20em;
+  margin: auto;
+}
+
+.new_rating {
+  width: 2em;
   display: inline-block;
 }
 
-.star-button{
-  border:none;
+.star-button {
+  border: none;
   background-color: white;
   font-size: 150%;
   outline: none;
 }
 
-.star-button:hover{
-  color:gold;
+.star-button:hover {
+  color: gold;
 }
 
-
-
-.rating-stars{
-  width:8em;
+.rating-stars {
+  width: 8em;
   font-size: 130%;
-  color:gold;
-  display:inline-block;
+  color: gold;
+  display: inline-block;
 }
 
-.movie-plot{
-  width:50em;
-  margin:auto;
-  border-bottom:solid;
-  border-width:0.5px;
+.movie-plot {
+  width: 50em;
+  margin: auto;
+  border-bottom: solid;
+  border-width: 0.5px;
 }
 
-.rating-title{
-  width:7em;
-  display:inline-block;
+.rating-title {
+  width: 7em;
+  display: inline-block;
   font-size: 90%;
 }
 
-.review-rating{
-  width:30em;
-  margin:auto;
+.review-rating {
+  width: 30em;
+  margin: auto;
 }
 
-.review-rating-stars{
-  width:4em;
+.review-rating-stars {
+  width: 4em;
   font-size: 100%;
-  color:gold;
-  display:inline-block;
+  color: gold;
+  display: inline-block;
 }
 
-.comments{
-  width:20em;
+.comments {
+  width: 20em;
   vertical-align: top;
   display: inline-block;
 }
 
-.comment-form{
-  width:20em;
+.comment-form {
+  width: 20em;
   display: inline-block;
-
 }
 
-.test{
+.test {
   font-size: 100px;
 }

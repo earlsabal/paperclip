@@ -1,29 +1,28 @@
-.field{
-  width:20em;
+.field {
+  width: 20em;
 }
 
-.field input{
-  border:none;
-  border-bottom:solid;
+.field input {
+  border: none;
+  border-bottom: solid;
   border-bottom-width: 1px;
   border-bottom-color: lightgrey;
-  width:100%;
+  width: 100%;
   margin: 1em;
   font-size: 20px;
-  outline:none;
+  outline: none;
 }
 
-.actions input{
-  border:none;
+.actions input {
+  border: none;
   background-color: #003366;
   font-size: 15px;
-  width:100px;
-  height:40px;
-  color:white;
+  width: 100px;
+  height: 40px;
+  color: white;
   border-radius: 7px;
 }
 
 input::placeholder {
   color: lightgrey;
 }
-
